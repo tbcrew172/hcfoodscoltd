@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Source+Sans+Pro');
+
+.hcLogo{
+	float: left;
+
+}
+
+fixed-top{
+	padding: 50px;
+	margin-right: 40px;
+}
+
+body{
+	background-color: white;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 200px;
+	
+}
+.secondrow{ margin-top: -24px;
+
+
+}
+
+.brand{
+
+padding: 30px 0px;
+
+}
+
+
+.container, .container-fluid{
+	background-color: #ffffff;
+
+
+}
+
+ .containerOne{
+	padding: 0px 0px 0px 0px;
+}
+
+
+.positionFixed{
+
+  position: fixed;       
+
+}
+
+/*div{
+	outline: solid 2px gray;
+}*/
+
+.break{
+	border-right: solid 2px red;
+}
+.row{
+	margin-bottom: 30px;
+}
+nav, footer{
+	background-color: #e12130;
+	padding: 10px 0px;
+
+
+
+}
+
+/*.navspace{
+
+	padding-top: 20px 0px;
+}*/
+
+.navfont{
+	font-size: 30px;
+	font-weight: Bold;
+	margin-top: 25px ;
+    
+}
+
+h1, h3{
+	color: black;
+	text-align: center;
+	/*margin-top: 25px;*/
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h2{
+
+text-align: left;
+font-family: 'Poppins', sans-serif;
+
+
+}
+
+
+
+
+
+h5{
+	color: #ffffff;
+	text-align: center;
+}
+a{
+	text-align: center;
+	display: block;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+
+	color: #ffffff;
+	-webkit-transition: all .25s ease-out;
+    -moz-transition: all .25s ease-out;
+    -o-transition: all .25s ease-out;
+    transition: all .25s ease-out;
+}
+a:hover{
+	color: #2d3791;
+	text-decoration: none;
+}
+.altBG{
+	background-color: #eeeeee;
+	padding: 20px 0px 40px 0px;
+}
+.pushDown{
+	margin-top: 20px;
+}
+@media (max-width: 1199px) {
+	.pushDown{
+		margin-top: 50px;
+	}
+
+
+
+/*
+------------------------------------Scrolling----Mode-------------*/
+
+html {
+  scroll-behavior: smooth;
+}
+/*--------------------------------------Morei----nfo
+*/
+
+.moreinfo{
+
+	color: red;
+	text-align: left;
+
+
+}
